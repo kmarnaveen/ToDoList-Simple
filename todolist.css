@@ -1,0 +1,27 @@
+body{
+    background-image: linear-gradient(to right,#304352, #d7d2cc);
+}
+#main-box{
+    text-align: center;
+}
+button{
+    margin: 10px;
+    background: steelblue;
+    border-color: steelblue;
+    width: 80px;
+    font-weight: 600;
+    color: white;
+}
+input {
+    border-color:rgba(215, 210, 204,0.8) ;
+    background-color: rgba(215, 210, 204,0.8);
+    width: 400px ;
+}
+
+li
+{
+    color: black;
+}
+#error{
+    color:crimson;
+}
